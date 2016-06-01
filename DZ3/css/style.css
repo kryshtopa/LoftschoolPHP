@@ -1,0 +1,56 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+a:hover {
+    text-decoration: none;
+}
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    min-width: 1000px;
+}
+
+.empty {
+    height: 70px;
+}
+
+.footer {
+    height: 70px;
+    background: #ccc;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -70px;
+    min-width: 1000px;
+}
+
+.block {
+    min-width: 500px;
+    height: 50px;
+    background: #ccc;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+}
+
+.nav__btn {
+    margin-left: 20px;
+}
+
+.align-center {
+    text-align: center;
+}
+.align-left {
+    text-align: left;
+}
+.h2 {
+    text-align: center;
+    font-size: 1.1em;
+}
+.text-wrap {
+    padding: 20px;
+    background-color: beige;
+    word-break: break-word;
+}
